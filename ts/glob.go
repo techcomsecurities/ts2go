@@ -1,0 +1,3 @@
+package ts
+
+const CloseBlockRegExp = `^}$`
